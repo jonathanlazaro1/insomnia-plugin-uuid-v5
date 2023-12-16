@@ -1,0 +1,17 @@
+{
+  "name": "insomnia-plugin-uuid-v5",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanlazaro1/insomnia-plugin-uuid-v5"
+  },
+  "insomnia": {
+    "name": "uuid-v5",
+    "description": "A plugin to generate UUID v5 strings."
+  },
+  "main": "index.js",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
